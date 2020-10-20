@@ -1,2 +1,4 @@
-# pulse
-Efeito de pulsar feito com ::before e ::after
+<p align="center">
+<img src="./github/gif-dog.gif"/>
+</p>
+
